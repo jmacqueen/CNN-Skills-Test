@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica,Arila,sans-serif;
+}
+
+p {
+  padding: 1em;
+}
+
+[class^="col"] {
+  /*padding: 0 1em;*/
+  width: 100%;
+}
+
+@media screen and (min-width: 600px) {
+  [class^="col"] {
+    float: left;
+    /*padding: 1em;*/
+    width: 48%;
+  }
+}
