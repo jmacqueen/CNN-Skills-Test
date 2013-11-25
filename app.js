@@ -14,8 +14,6 @@ app.set('title', 'CNN Skills Test');
 app.set("views", __dirname + "/views");
 app.set("view engine", "jade");
 
-app.use(express.logger()); // Debug
-
 app.get('/cnnbrk-tweets', function (req, res) {
 
   twit.get('search/tweets.json?q=from%3Acnnbrk&src=typd&f=realtime&count=10', function (error,data) {

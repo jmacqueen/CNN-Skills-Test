@@ -1,19 +1,16 @@
 CNN-Skills-Test
 ===============
 
-My skills test for CNN. AKA "From zero to basic node.js plus Twitter in 3 hours."
+My skills test for CNN. AKA "From zero to basic node.js plus Twitter in 4 hours."
 
 Thank goodness my client-side Javascript is pretty solid :-)
 
 The application resides in app.js.
 
-This was my very first experience with node.js, so that code isn't as organized as I would like, with
-everything basically lumped into the routing callback. With the holidays fast upon me, I only had
-the time to do the one piece of extra credit of activating the links in the tweets.
-The router will be next if I get the chance.
+This was my very first experience with node.js, so this was fun! With the holidays fast upon me, I only had the time to do two of the extra credit pieces. The router will be next if I get the chance. Probably after the due date :-)
 
-And I *hate* that I have entirely inline html. If I can get a chance to hop back on this before the deadline
-I'll fix that, too. But for now I want to make sure I get something live in case I don't get back
-into this in time.
+I chose to put the tweets into two different ```<div>``` elements so that they would show up in the proper order when shown in two columns. My initial approach of just resizing and floating the ```<p>``` tags meant that the two column view had the tweets read left-to-right instead of vertically...which seemed weird to me.
+
+I also fixed the truncating of the text in the re-tweets. I didn't notice that one until on of my links showed up broken! Sneaky!
 
 Thanks!
