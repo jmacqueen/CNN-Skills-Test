@@ -1,0 +1,1840 @@
+{
+  "statuses": [
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Mon Nov 25 01:34:14 +0000 2013",
+      "id": 404785064807895041,
+      "id_str": "404785064807895041",
+      "text": "Country singer Wayne Mills dies in bar shooting. http://t.co/IGpvMidznN",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 394,
+      "favorite_count": 345,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/IGpvMidznN",
+            "expanded_url": "http://cnn.it/1aZmxP4",
+            "display_url": "cnn.it/1aZmxP4",
+            "indices": [
+              49,
+              71
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 23:04:01 +0000 2013",
+      "id": 404747259826294784,
+      "id_str": "404747259826294784",
+      "text": "Threat of snow triggers 300 flight cancellations at Dallas/Fort Worth International Airport. http://t.co/egGXBFWUSU",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 430,
+      "favorite_count": 136,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/egGXBFWUSU",
+            "expanded_url": "http://cnn.it/1bKfz1q",
+            "display_url": "cnn.it/1bKfz1q",
+            "indices": [
+              93,
+              115
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 21:14:45 +0000 2013",
+      "id": 404719763076554753,
+      "id_str": "404719763076554753",
+      "text": "President Obama and Israeli Prime Minister Netanyahu spoke about the Iran deal, CNN's @danmericaCNN reports. http://t.co/JYmlNzhR1U",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 171,
+      "favorite_count": 125,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/JYmlNzhR1U",
+            "expanded_url": "http://cnn.it/1bMhClQ",
+            "display_url": "cnn.it/1bMhClQ",
+            "indices": [
+              109,
+              131
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "danmericaCNN",
+            "name": "Dan Merica",
+            "id": 36890646,
+            "id_str": "36890646",
+            "indices": [
+              86,
+              99
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 17:31:53 +0000 2013",
+      "id": 404663674872557569,
+      "id_str": "404663674872557569",
+      "text": "RT @CNNPolitics: House lawmakers show bipartisan skepticism of Iran deal http://t.co/9y4RwmZDV6",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Sun Nov 24 17:27:52 +0000 2013",
+        "id": 404662664636690432,
+        "id_str": "404662664636690432",
+        "text": "House lawmakers show bipartisan skepticism of Iran deal http://t.co/9y4RwmZDV6",
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 13850422,
+          "id_str": "13850422",
+          "name": "CNN Politics",
+          "screen_name": "CNNPolitics",
+          "location": "Washington, D.C.",
+          "description": "Political news, campaign stories, and Washington coverage from CNN's Political team.",
+          "url": "http://t.co/PdbSe7q3MW",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/PdbSe7q3MW",
+                  "expanded_url": "http://CNNPolitics.com",
+                  "display_url": "CNNPolitics.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 155881,
+          "friends_count": 337,
+          "listed_count": 4403,
+          "created_at": "Sat Feb 23 03:12:49 +0000 2008",
+          "favourites_count": 8,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 13072,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "100F14",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/31926238/CNN_Twitter_Background_05.2009.gif",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/31926238/CNN_Twitter_Background_05.2009.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/3375787523/3fb36b106ac462e0872a05606e42191c_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/3375787523/3fb36b106ac462e0872a05606e42191c_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/13850422/1348860534",
+          "profile_link_color": "0000FF",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "F1F5E7",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 92,
+        "favorite_count": 71,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/9y4RwmZDV6",
+              "expanded_url": "http://CNN.it/1jye0I9",
+              "display_url": "CNN.it/1jye0I9",
+              "indices": [
+                56,
+                78
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 92,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/9y4RwmZDV6",
+            "expanded_url": "http://CNN.it/1jye0I9",
+            "display_url": "CNN.it/1jye0I9",
+            "indices": [
+              73,
+              95
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "CNNPolitics",
+            "name": "CNN Politics",
+            "id": 13850422,
+            "id_str": "13850422",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 14:39:52 +0000 2013",
+      "id": 404620385347715072,
+      "id_str": "404620385347715072",
+      "text": "RT @SamFeistCNN: On Iran deal: \"we have just rewarded bad and dangerous behavior\". Says intel chmn @RepMikeRogers to @crowleyCNN on @CNNSot…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Sun Nov 24 14:31:54 +0000 2013",
+        "id": 404618381950582784,
+        "id_str": "404618381950582784",
+        "text": "On Iran deal: \"we have just rewarded bad and dangerous behavior\". Says intel chmn @RepMikeRogers to @crowleyCNN on @CNNSotu.",
+        "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 47694175,
+          "id_str": "47694175",
+          "name": "Sam Feist",
+          "screen_name": "SamFeistCNN",
+          "location": "Washington, D.C.",
+          "description": "CNN Washington Bureau Chief",
+          "url": "http://t.co/dGvF9DOTmF",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/dGvF9DOTmF",
+                  "expanded_url": "http://CNNPolitics.com",
+                  "display_url": "CNNPolitics.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 37991,
+          "friends_count": 182,
+          "listed_count": 1150,
+          "created_at": "Tue Jun 16 18:05:40 +0000 2009",
+          "favourites_count": 7,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 1231,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "9AE4E8",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/35866415/CNN_Twitter_Background_05.2009.gif",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/35866415/CNN_Twitter_Background_05.2009.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/267484840/Feist_Foto_-_Sitroom_1__normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/267484840/Feist_Foto_-_Sitroom_1__normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "BDDCAD",
+          "profile_sidebar_fill_color": "DDFFCC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 139,
+        "favorite_count": 66,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "RepMikeRogers",
+              "name": "Mike Rogers (MI-08)",
+              "id": 156703580,
+              "id_str": "156703580",
+              "indices": [
+                82,
+                96
+              ]
+            },
+            {
+              "screen_name": "crowleyCNN",
+              "name": "Candy Crowley",
+              "id": 27901418,
+              "id_str": "27901418",
+              "indices": [
+                100,
+                111
+              ]
+            },
+            {
+              "screen_name": "CNNsotu",
+              "name": "State of the Union",
+              "id": 17112878,
+              "id_str": "17112878",
+              "indices": [
+                115,
+                123
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 139,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "SamFeistCNN",
+            "name": "Sam Feist",
+            "id": 47694175,
+            "id_str": "47694175",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "RepMikeRogers",
+            "name": "Mike Rogers (MI-08)",
+            "id": 156703580,
+            "id_str": "156703580",
+            "indices": [
+              99,
+              113
+            ]
+          },
+          {
+            "screen_name": "crowleyCNN",
+            "name": "Candy Crowley",
+            "id": 27901418,
+            "id_str": "27901418",
+            "indices": [
+              117,
+              128
+            ]
+          },
+          {
+            "screen_name": "cnnsot",
+            "name": "ys32000",
+            "id": 138800225,
+            "id_str": "138800225",
+            "indices": [
+              132,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 14:10:31 +0000 2013",
+      "id": 404613000335994880,
+      "id_str": "404613000335994880",
+      "text": "RT @CNNsotu: .@JohnKerry tells @crowleyCNN that the nuke deal is better 4 #Israel than continuing down road in which #Iran rushes towards n…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Sun Nov 24 14:08:51 +0000 2013",
+        "id": 404612580917792769,
+        "id_str": "404612580917792769",
+        "text": ".@JohnKerry tells @crowleyCNN that the nuke deal is better 4 #Israel than continuing down road in which #Iran rushes towards nuclear weapons",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 17112878,
+          "id_str": "17112878",
+          "name": "State of the Union",
+          "screen_name": "CNNsotu",
+          "location": "Washington, D.C.",
+          "description": "From the staff of CNN's State of the Union with Candy Crowley (@crowleyCNN). Watch Sundays at 9a & 12p ET on @CNN.",
+          "url": "http://t.co/EMe7zozH71",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/EMe7zozH71",
+                  "expanded_url": "http://www.cnn.com/sotu",
+                  "display_url": "cnn.com/sotu",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 28155,
+          "friends_count": 140,
+          "listed_count": 818,
+          "created_at": "Sun Nov 02 10:52:24 +0000 2008",
+          "favourites_count": 8,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 3634,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "000009",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/634917862/qkosmmd7gvxpoj14qpgl.jpeg",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/634917862/qkosmmd7gvxpoj14qpgl.jpeg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000147901400/2175bd7ae1422caabefaa199151fec53_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000147901400/2175bd7ae1422caabefaa199151fec53_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/17112878/1374085184",
+          "profile_link_color": "0F0101",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "9087FD",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 89,
+        "favorite_count": 55,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Israel",
+              "indices": [
+                61,
+                68
+              ]
+            },
+            {
+              "text": "Iran",
+              "indices": [
+                104,
+                109
+              ]
+            }
+          ],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": [
+            {
+              "screen_name": "JohnKerry",
+              "name": "John Kerry",
+              "id": 15007149,
+              "id_str": "15007149",
+              "indices": [
+                1,
+                11
+              ]
+            },
+            {
+              "screen_name": "crowleyCNN",
+              "name": "Candy Crowley",
+              "id": 27901418,
+              "id_str": "27901418",
+              "indices": [
+                18,
+                29
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 89,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Israel",
+            "indices": [
+              74,
+              81
+            ]
+          },
+          {
+            "text": "Iran",
+            "indices": [
+              117,
+              122
+            ]
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "CNNsotu",
+            "name": "State of the Union",
+            "id": 17112878,
+            "id_str": "17112878",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "JohnKerry",
+            "name": "John Kerry",
+            "id": 15007149,
+            "id_str": "15007149",
+            "indices": [
+              14,
+              24
+            ]
+          },
+          {
+            "screen_name": "crowleyCNN",
+            "name": "Candy Crowley",
+            "id": 27901418,
+            "id_str": "27901418",
+            "indices": [
+              31,
+              42
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 11:31:53 +0000 2013",
+      "id": 404573081600933889,
+      "id_str": "404573081600933889",
+      "text": "Israeli prime minister blasts Iran nuke deal: 'This first step could very well be the last step.' http://t.co/Fmky0cnbUn",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 339,
+      "favorite_count": 218,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Fmky0cnbUn",
+            "expanded_url": "http://cnn.it/1eg71CK",
+            "display_url": "cnn.it/1eg71CK",
+            "indices": [
+              98,
+              120
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 07:31:07 +0000 2013",
+      "id": 404512487447359489,
+      "id_str": "404512487447359489",
+      "text": "RT @PoliticalTicker: Congressional Republicans slam Iran deal http://t.co/8UPMG0AVRv",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Sun Nov 24 07:12:05 +0000 2013",
+        "id": 404507698634686464,
+        "id_str": "404507698634686464",
+        "text": "Congressional Republicans slam Iran deal http://t.co/8UPMG0AVRv",
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 9252212,
+          "id_str": "9252212",
+          "name": "CNN Political Ticker",
+          "screen_name": "PoliticalTicker",
+          "location": "",
+          "description": "CNN's political news updates as they happen. Follow @CNNPolitics for a deeper dive into the issues from our politics team.",
+          "url": "http://t.co/Ni9LLuIrfu",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/Ni9LLuIrfu",
+                  "expanded_url": "http://www.cnn.com/ticker",
+                  "display_url": "cnn.com/ticker",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 215316,
+          "friends_count": 34,
+          "listed_count": 7519,
+          "created_at": "Thu Oct 04 21:12:49 +0000 2007",
+          "favourites_count": 0,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 53172,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "323232",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/32166804/CNN_Twitter_Background_05.2009.gif",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/32166804/CNN_Twitter_Background_05.2009.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2512574880/eq4k98hjbg1y87ktdu8v_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2512574880/eq4k98hjbg1y87ktdu8v_normal.png",
+          "profile_link_color": "004287",
+          "profile_sidebar_border_color": "DADADA",
+          "profile_sidebar_fill_color": "EEEEEE",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 137,
+        "favorite_count": 125,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/8UPMG0AVRv",
+              "expanded_url": "http://wp.me/p4HKM-1e4K",
+              "display_url": "wp.me/p4HKM-1e4K",
+              "indices": [
+                41,
+                63
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 137,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/8UPMG0AVRv",
+            "expanded_url": "http://wp.me/p4HKM-1e4K",
+            "display_url": "wp.me/p4HKM-1e4K",
+            "indices": [
+              62,
+              84
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "PoliticalTicker",
+            "name": "CNN Political Ticker",
+            "id": 9252212,
+            "id_str": "9252212",
+            "indices": [
+              3,
+              19
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 04:00:14 +0000 2013",
+      "id": 404459419830083585,
+      "id_str": "404459419830083585",
+      "text": "RT @JimAcostaCNN: Kerry from Geneva on deal: \"It will make our partners in the region safer.\"",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Sun Nov 24 03:59:41 +0000 2013",
+        "id": 404459278615867392,
+        "id_str": "404459278615867392",
+        "text": "Kerry from Geneva on deal: \"It will make our partners in the region safer.\"",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 22771961,
+          "id_str": "22771961",
+          "name": "Jim Acosta",
+          "screen_name": "JimAcostaCNN",
+          "location": "Washington, DC",
+          "description": "CNN Senior White House Correspondent",
+          "url": "http://t.co/Z8YL38CtuO",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/Z8YL38CtuO",
+                  "expanded_url": "http://www.cnn.com",
+                  "display_url": "cnn.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 21939,
+          "friends_count": 1670,
+          "listed_count": 712,
+          "created_at": "Wed Mar 04 13:48:04 +0000 2009",
+          "favourites_count": 17,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 12535,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "A39E96",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378189156/DC_map.jpg",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378189156/DC_map.jpg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000608813043/344a7e097d43376b4f95ce6b5f47347c_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000608813043/344a7e097d43376b4f95ce6b5f47347c_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/22771961/1384461454",
+          "profile_link_color": "423C33",
+          "profile_sidebar_border_color": "33363D",
+          "profile_sidebar_fill_color": "AD9D6B",
+          "profile_text_color": "3D2406",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 42,
+        "favorite_count": 54,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 42,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "JimAcostaCNN",
+            "name": "Jim Acosta",
+            "id": 22771961,
+            "id_str": "22771961",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "en"
+      },
+      "created_at": "Sun Nov 24 03:52:00 +0000 2013",
+      "id": 404457345725763584,
+      "id_str": "404457345725763584",
+      "text": "RT @JimAcostaCNN: CNN: Iranian Foreign Minister Mohammad Javad Zarif said Iran retains the right to nuclear technology, including enriching…",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 428333,
+        "id_str": "428333",
+        "name": "CNN Breaking News",
+        "screen_name": "cnnbrk",
+        "location": "Everywhere",
+        "description": "Breaking News from CNN, via the http://t.co/28h13hUrqq homepage team. Now 14M strong. Check @cnn for all things CNN, breaking and more.",
+        "url": "http://t.co/yG5YtDGw4L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yG5YtDGw4L",
+                "expanded_url": "http://cnn.com/",
+                "display_url": "cnn.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/28h13hUrqq",
+                "expanded_url": "http://CNN.com",
+                "display_url": "CNN.com",
+                "indices": [
+                  32,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14295965,
+        "friends_count": 90,
+        "listed_count": 144565,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "favourites_count": 11,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 28258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/17349501/CNN_Twitter_Background_05.2009.GIF",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "metadata": {
+          "result_type": "recent",
+          "iso_language_code": "en"
+        },
+        "created_at": "Sun Nov 24 03:50:51 +0000 2013",
+        "id": 404457057719287808,
+        "id_str": "404457057719287808",
+        "text": "CNN: Iranian Foreign Minister Mohammad Javad Zarif said Iran retains the right to nuclear technology, including enriching uranium",
+        "source": "web",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 22771961,
+          "id_str": "22771961",
+          "name": "Jim Acosta",
+          "screen_name": "JimAcostaCNN",
+          "location": "Washington, DC",
+          "description": "CNN Senior White House Correspondent",
+          "url": "http://t.co/Z8YL38CtuO",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/Z8YL38CtuO",
+                  "expanded_url": "http://www.cnn.com",
+                  "display_url": "cnn.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 21939,
+          "friends_count": 1670,
+          "listed_count": 712,
+          "created_at": "Wed Mar 04 13:48:04 +0000 2009",
+          "favourites_count": 17,
+          "utc_offset": -18000,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 12535,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "A39E96",
+          "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378189156/DC_map.jpg",
+          "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378189156/DC_map.jpg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000608813043/344a7e097d43376b4f95ce6b5f47347c_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000608813043/344a7e097d43376b4f95ce6b5f47347c_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/22771961/1384461454",
+          "profile_link_color": "423C33",
+          "profile_sidebar_border_color": "33363D",
+          "profile_sidebar_fill_color": "AD9D6B",
+          "profile_text_color": "3D2406",
+          "profile_use_background_image": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweet_count": 229,
+        "favorite_count": 70,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "urls": [],
+          "user_mentions": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 229,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "JimAcostaCNN",
+            "name": "Jim Acosta",
+            "id": 22771961,
+            "id_str": "22771961",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.025,
+    "max_id": 404785064807895041,
+    "max_id_str": "404785064807895041",
+    "next_results": "?max_id=404457345725763583&q=from%3Acnnbrk&count=10&include_entities=1",
+    "query": "from%3Acnnbrk",
+    "refresh_url": "?since_id=404785064807895041&q=from%3Acnnbrk&include_entities=1",
+    "count": 10,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

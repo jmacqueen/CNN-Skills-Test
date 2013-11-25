@@ -1,0 +1,15 @@
+doctype 5
+html(lang="en")
+  head
+    title CNN Skills Test
+    link(rel="stylesheet", href="/static/style.css")
+  body
+    // Broken into two divs so that the tweets remain in proper order when shown in two columns
+    .col1
+      each update, index in updates
+        if (index < 5)
+          p!= update.text
+    .col2
+      each update, index in updates
+        if (index > 4)
+          p!= update.text

@@ -11,26 +11,21 @@ var twit = new Twitter (
 );
 
 app.set('title', 'CNN Skills Test');
+app.set("views", __dirname + "/views");
+app.set("view engine", "jade");
+
+app.use(express.logger()); // Debug
 
 app.get('/cnnbrk-tweets', function (req, res) {
-  var body = '<head>';
-  body += '<link rel="stylesheet" href="/static/style.css">';
-  body += '</head><body>';
-  // body += '<table><tbody>';
+
   twit.get('search/tweets.json?q=from%3Acnnbrk&src=typd&f=realtime&count=10', function (error,data) {
 
     var statusUpdates = JSON.parse(data).statuses;
+    statusUpdates.forEach(function(update){
+      update = parseStatus(update);
+    });
 
-    body += '<div class="col1">';
-      body += sliceStatuses(statusUpdates, 0, 4);
-    body += '</div>';
-
-    body += '<div class="col2">';
-      body += sliceStatuses(statusUpdates, 5, 9);
-    body += '</div>';
-
-    body += '</body>';
-    res.send(body);
+    res.render("tweets", {updates: statusUpdates});
   });
 });
 
@@ -39,15 +34,16 @@ app.use("/", express.static(__dirname));
 app.listen(30000);
 console.log('Listening on port 30000');
 
-var sliceStatuses = function (statuses, fromIndex, toIndex) {
-  var body="";
-  var i;
-  for (i = fromIndex; i < toIndex + 1; i++) {
-    if (statuses[i]) {
-      var status = statuses[i].text;
-      var newstatus = status.replace(/(https?:\/\/.*)\b/i,'<a href="$1" target="_blank">$1</a>');
-      body += '<p>' + newstatus + '</p>';
-    }
+var parseStatus = function (statusUpdate) {
+  // Fix truncated retweet text
+  if (statusUpdate.retweeted_status) {
+    statusUpdate.text =  "RT @";
+    statusUpdate.text += statusUpdate.retweeted_status.user.screen_name + ": ";
+    statusUpdate.text += statusUpdate.retweeted_status.text;
   }
-  return body;
+
+  // Make URLs clickable
+  var newStatusText = statusUpdate.text.replace(/(https?:\/\/.*)\b/i,'<a href="$1" target="_blank">$1</a>');
+  statusUpdate.text = newStatusText;
+  return statusUpdate;
 };
